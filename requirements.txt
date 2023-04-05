@@ -1,3 +1,6 @@
 tensorflow
 tensorflow-datasets
 scikit-learn
+tensorboard
+pydot
+graphviz
