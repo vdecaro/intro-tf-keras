@@ -4,3 +4,4 @@ scikit-learn
 tensorboard
 pydot
 graphviz
+keras-tuner
