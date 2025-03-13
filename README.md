@@ -1,5 +1,5 @@
 # Intro to TF and Keras
-Introduction to TensorFlow and Keras for the course on Intelligent Systems and Pattern Recognition (2024), M.Sc. in Computer Science, University of Pisa.
+Introduction to TensorFlow and Keras for the course on Intelligent Systems and Pattern Recognition (2025), M.Sc. in Computer Science, University of Pisa.
 
 
 ## Usage
